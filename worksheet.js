@@ -9,7 +9,7 @@
     }
 
     var direct_link_ads = rChoice([
-                            "",
+                            "https://harmlesstacticalhonorable.com/bcd48n8axe?key=1f9368f48204718999a16702a66cd2b0",
                         ]);
 
     var ars             = rChoice([
